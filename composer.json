@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "files": [
+      "src/server/api.php",
+      "src/server/hooks.php",
+      "src/server/pages.php",
+      "src/server/utils.php",
+      "src/server/database.php"
+    ]
+  },
+  "require": {
+    "tarsana/functional": "^2.2"
+  }
+}
